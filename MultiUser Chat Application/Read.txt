@@ -1,0 +1,13 @@
+Hello Sir,
+First: You can Execute Server.py File to start server
+Atfter you start server You Can see server is started..
+Second:Run CLient.py File To Add New Client in Room,
+After Client.py is execute program will open new window that you see enter your name massage or enter massage type label
+you can enter your name,
+after entering name you see the client will display in server window,
+your can add one,two or upto N User and all user are see in server window..
+and line by line user will also display in other other user window..
+please check Video...
+
+
+Thank you Sir...
